@@ -1,0 +1,32 @@
+
+
+.custom-coin-card{
+   
+    border-radius: 50px;
+}
+
+.custom-card-title{
+    border-bottom: 0.5px soild white;
+}
+
+.coin-head-link{
+    text-decoration: none;
+}
+.coin-info{
+    border-radius: 50px;
+}
+.custom-search{
+    background-color:  #121212;
+}
+.showcase::before{
+    display: block;
+    height: 55px;
+   content: " ";
+  
+}
+.top-charts{
+    border-radius: 50px;
+}
+.custom-placeholder{
+    border-radius: 50px;
+}
